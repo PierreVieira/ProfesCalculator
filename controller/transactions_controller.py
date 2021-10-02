@@ -44,7 +44,7 @@ class TransactionsController:
         return self.__deposits_sum_by_period
 
     def get_total_sum(self) -> float:
-        sum = 0
-        for value in self.__deposits_sum_by_period.values():
-            sum += value
-        return sum
+        return sum(self.__deposits_sum_by_period.values())
+
+    def get_mean_by_month(self):
+        return self.get_total_sum() / len(self.__transactions_by_period)

@@ -13,7 +13,8 @@ class Transaction:
 
     @property
     def period(self):
-        return f'{self.date["month"]}/{self.date["year"]}'
+        month = self.date["month"]
+        return f'{month if month >= 10 else "0" + str(month)}/{self.date["year"]}'
 
     def __str__(self):
         return f'{self.value} | {self.date["day"]}/{self.date["month"]}/{self.date["year"]}'
