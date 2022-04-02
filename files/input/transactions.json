@@ -74,6 +74,139 @@
       {
         "day": 15,
         "value": 45
+      },
+      {
+        "day": 18,
+        "value": 60
+      },
+      {
+        "day": 19,
+        "value": 150
+      },
+      {
+        "day": 19,
+        "value": 175
+      },
+      {
+        "day": 20,
+        "value": 300
+      },
+      {
+        "day": 21,
+        "value": 300
+      },
+      {
+        "day": 22,
+        "value": 150
+      },
+      {
+        "day": 25,
+        "value": 211.33
+      },
+      {
+        "day": 29,
+        "value": 90
+      },
+      {
+        "day": 15,
+        "value": 45
+      }
+    ]
+  },
+  {
+    "period": "11/2021",
+    "deposits": [
+      {
+        "day": 9,
+        "value": 100
+      },
+      {
+        "day": 11,
+        "value": 200
+      },
+      {
+        "day": 11,
+        "value": 80
+      },
+      {
+        "day": 12,
+        "value": 175
+      },
+      {
+        "day": 24,
+        "value": 100
+      },
+      {
+        "day": 25,
+        "value": 190
+      }
+    ]
+  },
+  {
+    "period": "12/2021",
+    "deposits": [
+      {
+        "day": 1,
+        "value": 115
+      },
+      {
+        "day": 3,
+        "value": 161.33
+      },
+      {
+        "day": 8,
+        "value": 80
+      },
+      {
+        "day": 16,
+        "value": 70
+      },
+      {
+        "day": 3,
+        "value": 161.33
+      }
+    ]
+  },
+  {
+    "period": "01/2022",
+    "deposits": [
+      {
+        "day": 4,
+        "value": 30
+      },
+      {
+        "day": 12,
+        "value": 115
+      }
+    ]
+  },
+  {
+    "period": "02/2022",
+    "deposits": [
+      {
+        "day": 8,
+        "value": 150
+      },
+      {
+        "day": 9,
+        "value": 100
+      },
+      {
+        "day": 16,
+        "value": 90
+      }
+    ]
+  },
+  {
+    "period": "03/2022",
+    "deposits": [
+      {
+        "day": 1,
+        "value": 300
+      },
+      {
+        "day": 22,
+        "value": 250
       }
     ]
   }
